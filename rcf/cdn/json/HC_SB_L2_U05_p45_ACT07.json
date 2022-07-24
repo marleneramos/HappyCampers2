@@ -1,0 +1,19 @@
+{
+  "id": "57035b44d68f471bb81f6d0579f27397",
+  "answers": [
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Fruit bats like fruit"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Bats don't see very well"
+    }
+  ]
+}

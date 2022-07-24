@@ -1,0 +1,33 @@
+{
+  "id": "3584774351c74f3bafc12d34a3e9fe9e",
+  "answers": [
+    {
+      "elm": "matching_1",
+      "type": "composite",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        {
+          "elm": "matchTarget_2",
+          "type": "simple",
+          "value": "matchItem_2"
+        },
+        {
+          "elm": "matchTarget_3",
+          "type": "simple",
+          "value": "matchItem_3"
+        },
+        {
+          "elm": "matchTarget_4",
+          "type": "simple",
+          "value": "matchItem_4"
+        },
+        {
+          "elm": "matchTarget_5",
+          "type": "simple",
+          "value": "matchItem_5"
+        }
+      ]
+    }
+  ]
+}

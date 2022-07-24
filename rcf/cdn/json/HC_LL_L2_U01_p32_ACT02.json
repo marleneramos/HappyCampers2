@@ -1,0 +1,194 @@
+{
+  "id": "69ea22cfaaab46378cbc5545d1fbe2a3",
+  "answers": [
+    {
+      "elm": "typein_10",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Is"
+    },
+    {
+      "elm": "typein_11",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "it"
+    },
+    {
+      "elm": "typein_12",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "snowy"
+    },
+    {
+      "elm": "typein_13",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "in"
+    },
+    {
+      "elm": "typein_14",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "the"
+    },
+    {
+      "elm": "typein_15",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "spring"
+    },
+    {
+      "elm": "typein_16",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "No"
+    },
+    {
+      "elm": "typein_17",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "it"
+    },
+    {
+      "elm": "typein_18",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "isn't"
+    },
+    {
+      "elm": "typein_19",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Is"
+    },
+    {
+      "elm": "typein_20",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "it"
+    },
+    {
+      "elm": "typein_21",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "cold"
+    },
+    {
+      "elm": "typein_22",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "in"
+    },
+    {
+      "elm": "typein_23",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "the"
+    },
+    {
+      "elm": "typein_24",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "summer"
+    },
+    {
+      "elm": "typein_25",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "No"
+    },
+    {
+      "elm": "typein_26",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "it"
+    },
+    {
+      "elm": "typein_27",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "isn't"
+    },
+    {
+      "elm": "typein_28",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Is"
+    },
+    {
+      "elm": "typein_29",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "it"
+    },
+    {
+      "elm": "typein_30",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "windy"
+    },
+    {
+      "elm": "typein_31",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "in"
+    },
+    {
+      "elm": "typein_32",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "the"
+    },
+    {
+      "elm": "typein_33",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "fall"
+    },
+    {
+      "elm": "typein_34",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Yes"
+    },
+    {
+      "elm": "typein_35",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "it"
+    },
+    {
+      "elm": "typein_36",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "is"
+    }
+  ]
+}

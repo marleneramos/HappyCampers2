@@ -1,0 +1,47 @@
+{
+  "id": "a28deeb5c870450aad5fe6297398aae0",
+  "answers": [
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Does"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "like"
+    },
+    {
+      "elm": "typein_5",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Do"
+    },
+    {
+      "elm": "typein_6",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "like"
+    },
+    {
+      "elm": "typein_7",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "don't"
+    },
+    {
+      "elm": "typein_8",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "like"
+    }
+  ]
+}

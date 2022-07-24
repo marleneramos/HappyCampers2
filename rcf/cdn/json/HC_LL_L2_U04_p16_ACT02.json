@@ -1,0 +1,49 @@
+{
+  "id": "0b3b6f4fa7414cbfb097e98209c1b520",
+  "answers": [
+    {
+      "elm": "ordering_2",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "I",
+        "don't",
+        "want",
+        "to",
+        "be",
+        "a",
+        "teacher"
+      ]
+    },
+    {
+      "elm": "ordering_3",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "I",
+        "don't",
+        "want",
+        "to",
+        "be",
+        "a",
+        "scientist"
+      ]
+    },
+    {
+      "elm": "ordering_4",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "I",
+        "want",
+        "to",
+        "be",
+        "an",
+        "artist"
+      ]
+    }
+  ]
+}

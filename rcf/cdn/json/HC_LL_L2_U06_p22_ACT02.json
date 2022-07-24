@@ -1,0 +1,44 @@
+{
+  "id": "5ada71abba30401a9460c2e04a61c417",
+  "answers": [
+    {
+      "elm": "ordering_2",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "I",
+        "don't",
+        "like",
+        "art",
+        "class"
+      ]
+    },
+    {
+      "elm": "ordering_3",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "My",
+        "favorite",
+        "class",
+        "is",
+        "science"
+      ]
+    },
+    {
+      "elm": "ordering_4",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "I",
+        "don't",
+        "like",
+        "music",
+        "class"
+      ]
+    }
+  ]
+}

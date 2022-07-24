@@ -1,0 +1,20 @@
+{
+  "id": "9502de3c198d4427b6706e7213ab86ed",
+  "answers": [
+    {
+      "elm": "ordering_1",
+      "type": "sequence",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "Get the vinegar, baking soda, and plastic bag.",
+        "Go outside to the yard.",
+        "Put the things in the bag.",
+        "Close the bag.",
+        "Shake the bag up and down.",
+        "Put the bag on the ground.",
+        "BANG!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "016a20eb58ed48a9b9d56afa0a3640dc",
+  "answers": [
+    {
+      "elm": "complexDroppable_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "cd_3"
+    },
+    {
+      "elm": "complexDroppable_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "cd_1"
+    },
+    {
+      "elm": "complexDroppable_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "cd_4"
+    },
+    {
+      "elm": "complexDroppable_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "cd_4"
+    },
+    {
+      "elm": "complexDroppable_5",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "cd_2"
+    },
+    {
+      "elm": "complexDroppable_6",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "cd_4"
+    }
+  ]
+}

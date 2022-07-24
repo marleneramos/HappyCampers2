@@ -1,0 +1,54 @@
+{
+  "id": "0671a96678ae4415bf82efd51fdb7022",
+  "answers": [
+    {
+      "elm": "complexDroppable_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "cd_2"
+    },
+    {
+      "elm": "complexDroppable_5",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "cd_1"
+    },
+    {
+      "elm": "complexDroppable_6",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "cd_1"
+    },
+    {
+      "elm": "complexDroppable_7",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "cd_3"
+    },
+    {
+      "elm": "complexDroppable_8",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "cd_4"
+    },
+    {
+      "elm": "complexDroppable_9",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "cd_1"
+    },
+    {
+      "elm": "complexDroppable_10",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "cd_5"
+    }
+  ]
+}

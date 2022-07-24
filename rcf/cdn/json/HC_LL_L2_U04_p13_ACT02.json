@@ -1,0 +1,106 @@
+{
+  "id": "9370bfa899f941c8b725e84ff0a0d99a",
+  "answers": [
+    {
+      "elm": "typeinGroup_2",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_5",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "u"
+        },
+        {
+          "elm": "typein_6",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "s"
+        },
+        {
+          "elm": "typein_7",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "e"
+        }
+      ]
+    },
+    {
+      "elm": "typeinGroup_3",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_8",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "i"
+        },
+        {
+          "elm": "typein_9",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "o"
+        },
+        {
+          "elm": "typein_10",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "t"
+        }
+      ]
+    },
+    {
+      "elm": "typeinGroup_4",
+      "markType": "list",
+      "markedBy": "engine",
+      "type": "composite",
+      "value": [
+        {
+          "elm": "typein_11",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "a"
+        },
+        {
+          "elm": "typein_12",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "c"
+        },
+        {
+          "elm": "typein_13",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "h"
+        },
+        {
+          "elm": "typein_14",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "e"
+        },
+        {
+          "elm": "typein_15",
+          "type": "simple",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": "r"
+        }
+      ]
+    }
+  ]
+}

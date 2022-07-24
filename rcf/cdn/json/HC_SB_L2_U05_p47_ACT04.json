@@ -1,0 +1,68 @@
+{
+  "id": "ee4d4c42d2644b6d935154ebb9868ce7",
+  "answers": [
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "is"
+    },
+    {
+      "elm": "typein_5",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Is"
+    },
+    {
+      "elm": "typein_6",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "big"
+    },
+    {
+      "elm": "typein_7",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "it"
+    },
+    {
+      "elm": "typein_8",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "isn't"
+    },
+    {
+      "elm": "typein_9",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "have"
+    },
+    {
+      "elm": "typein_10",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "long"
+    },
+    {
+      "elm": "typein_11",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "don't"
+    },
+    {
+      "elm": "typein_12",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "have"
+    }
+  ]
+}
